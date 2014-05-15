@@ -1,6 +1,6 @@
 <?php
 /**
- * Downloads a packaged artifacts from a Nexus repository. Might also work with other Maven 
+ * Downloads packaged artifacts from a Nexus repository. Might also work with other Maven 
  * repositories. Switches between curl and wget, make sure one of them is installed.
  * 
  * The reason i created this is because we build modules and themes and version them using maven, 
